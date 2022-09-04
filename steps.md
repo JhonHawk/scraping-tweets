@@ -20,5 +20,15 @@ Desarrollo
 Para ejeutar este proyecto:
 
 
-1) Instalar nodejs
-2) Clonar el repositorio: git clone
+1) Instalar nodejs y git
+https://nodejs.org/es/
+https://git-scm.com/
+
+2) Clonar el repositorio
+git clone https://github.com/JhonHawk/scraping-tweets.git
+
+3) Ir a la carpeta recien creada e instalar dependencias
+npm install
+
+4) Ejecutar el proyecto
+npm run start
